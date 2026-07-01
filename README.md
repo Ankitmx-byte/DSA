@@ -6,6 +6,7 @@ Complete data structure and algorithm
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ankitmx-byte/DSA/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Ankitmx-byte/DSA/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -15,4 +16,8 @@ Complete data structure and algorithm
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ankitmx-byte/DSA/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ankitmx-byte/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
